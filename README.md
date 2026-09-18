@@ -1,6 +1,5 @@
-## EX9 Preprocessing on Twitter Data using Rapidminer
-### NAME : VISHAL M.A
-### REG NO : 212222230177
+### EX9 Preprocessing on Twitter Data using Rapidminer
+
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -27,11 +26,12 @@ for this purpose.
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/fc9fcb58-4b0a-489d-b8a5-83e49a1aa5d1)
+<img width="1918" height="1118" alt="image" src="https://github.com/user-attachments/assets/8b7b6184-b4b5-43bb-ad37-2cb21548a673" />
 
-![image](https://github.com/user-attachments/assets/553a0eaf-0040-46cd-a76d-9faae773d0dd)
+<img width="1918" height="1108" alt="image" src="https://github.com/user-attachments/assets/31d05aaf-5056-4472-b417-ea69d2a0796f" />
 
-![image](https://github.com/user-attachments/assets/2412a280-79a3-4e1c-b3cf-cbd4d0c61845)
+<img width="1913" height="1113" alt="image" src="https://github.com/user-attachments/assets/3e065445-4bee-493e-8ceb-df43562fa94f" />
+
 
 ### Result:
-Thus, the implemention of preprocessing technique on Twitter Data using Rapidminer is executed successfully.
+Thus, the preprocessing technique on twitter data in Rapidminer has been implemented.
